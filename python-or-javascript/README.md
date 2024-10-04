@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://rapexa.ir/wp-content/uploads/2023/06/JavaScript-vs-Python-1.jpg" alt="Python OR JavaScript"/>
+  <img src="Js-or-py.jpg" alt="Python OR JavaScript"/>
 </p>
 
 ## پایتون یا جاوا اسکریپت !؟
